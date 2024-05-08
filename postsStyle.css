@@ -21,7 +21,7 @@
 .post_section {
     display: flex;
     flex-direction: column;
-    max-width:1000px;
+    width:900px;
     min-height: 100vh;
     flex-grow: 1;
     flex-shrink: 1;
